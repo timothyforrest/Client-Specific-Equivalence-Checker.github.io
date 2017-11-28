@@ -161,6 +161,7 @@ ul.topnav {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+    color:black;
     display: block;
     text-decoration: none;
 }
