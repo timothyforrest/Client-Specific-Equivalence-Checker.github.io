@@ -1,2 +1,2 @@
-# c-sick.github.io
-Project Website
+# client-specific-equivalence-checker.github.io
+CLEVER Project Website
