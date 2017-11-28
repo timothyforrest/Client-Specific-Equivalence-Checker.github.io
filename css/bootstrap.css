@@ -740,6 +740,9 @@ img {
   background-color: transparent;
   border: 0;
 }
+.text-center {
+    text-align: center;
+}
 .hidden {
   display: none !important;
 }
